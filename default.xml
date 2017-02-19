@@ -498,7 +498,7 @@
   <include name="snippets/rr-n.xml" />
   <include name="snippets/cm.xml" />
 	
-  <project path="vendor/resurrection" name="android_vendor_resurrection" remote="apuv" revision="nougat"/>
+  <project path="vendor/cm" name="android_vendor_resurrection" remote="apuv" revision="nougat"/>
   <project path="vendor/oneplus" name="proprietary_vendor_oneplus" remote="apuv" revision="cm-14.1"/>	
 	
 <!-- Device/Kernel -->
