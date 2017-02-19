@@ -503,8 +503,6 @@
 	
 <!-- Device/Kernel -->
   <project name="android_device_oneplus_bacon-rr" path="device/oneplus/bacon" remote="apuv" revision="cm-14.1"/>
-  <project name="android_kernel_oneplus_msm8974" path="kernel/oneplus/resurrectedkernel" remote="apuv" revision="resurrected" />	
-  <project name="LineageOS/android_device_oppo_common" path="device/oppo/common" remote="github" />
-  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />	
-
+  <project name="android_kernel_oneplus_msm8974" path="kernel/oneplus/resurrectedkernel" remote="apuv" revision="resurrected" />
+	
 </manifest>
